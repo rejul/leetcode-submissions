@@ -35,21 +35,21 @@ Python For Beginners/python-hello-world/submission-0.py
 
 ---
 
-## Supported languages
+##  languages
 
-| Language | Extension |
+| Language | Currently Progress |
 |---|---|
-| Python | `.py` |x
-| JavaScript | `.js` |x
-| TypeScript | `.ts` |x
-| Java | `.java` |
-| C++ | `.cpp` |
-| C# | `.cs` |x
-| Go | `.go` |
-| Rust | `.rs` |
-| Kotlin | `.kt` |
-| Swift | `.swift` |
-| SQL | `.sql` |
+| Python | `X` |
+| JavaScript | `X` |
+| TypeScript | `X` |
+| Java | `` |
+| C++ | `` |
+| C# | `X` |
+| Go | `` |
+| Rust | `` |
+| Kotlin | `` |
+| Swift | `` |
+| SQL | `` |
 
 ---
 
